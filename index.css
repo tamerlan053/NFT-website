@@ -215,3 +215,7 @@
 .text-highlight {
     color: #0071f3;
 }
+
+.main__content p {
+    font-size: 2.rem;
+}
